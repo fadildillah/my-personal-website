@@ -1,0 +1,9 @@
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./styles/styles.css";
+import "./scripts/components/app-bar.js";
+import "./scripts/components/hero-page.js";
+import "./scripts/components/about-page.js";
+import "./scripts/components/education-page.js"
+import "./scripts/components/project-page.js";
+import "./scripts/components/skills-page.js";
+import "./scripts/components/contact-page.js";
